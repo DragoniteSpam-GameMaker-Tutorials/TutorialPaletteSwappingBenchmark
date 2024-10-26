@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ColorModDestroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ColorModDestroy",
+  "parent":{
+    "name":"ColorMod",
+    "path":"folders/ColorMod.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

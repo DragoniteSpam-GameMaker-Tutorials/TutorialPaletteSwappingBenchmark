@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_palette",
+  "name":"shd_palette",
+  "parent":{
+    "name":"TutorialPaletteSwappingBenchmark",
+    "path":"TutorialPaletteSwappingBenchmark.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

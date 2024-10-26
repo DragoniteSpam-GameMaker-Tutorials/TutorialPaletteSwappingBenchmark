@@ -1,0 +1,1 @@
+colorMod = ColorModFromSprite(palette_index, 0, true);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Palette_Testing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Palette_Testing",
+  "parent":{
+    "name":"TutorialPaletteSwappingBenchmark",
+    "path":"TutorialPaletteSwappingBenchmark.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
